@@ -1,0 +1,45 @@
+﻿body {
+    font-family:"Microsoft YaHei" ! important;
+}
+
+
+#header {
+    background-color:#d1d0d0;
+}
+
+#content {
+    width:900px;
+    height:550px;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px #808080 solid;
+    box-shadow: 5px 2px 5px 5px #888888;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+#contentType1 {
+    width:800px;
+    height:450px;
+    margin:20px auto;
+    padding:5px;
+    
+}
+
+
+#contentType2 {
+    width:800px;
+    height:450px;
+    margin:20px auto;
+    padding:5px;
+    
+}
+
+#list1 {
+    font-size:medium;
+}
+
+
+#footer {
+    background-color:#d1d0d0;
+}
